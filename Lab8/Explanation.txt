@@ -1,0 +1,36 @@
+9. In the normal mode, execute the command gg to go to the top of the file. 
+   Come to the beginning of the line 1, and then enter into the visual mode using the command "ctrl+v"
+   Then use command "ctrl+j" to select and traverse until the last line
+   Now after the selection is done, give indentation by two spaces using the command "shift + . ." 
+   
+11. Jump to the 70th line.
+    Enter Insert mode.
+    Insert a new line.
+    Type- "This is an important reminder for you.".
+    Exit Insert mode. 
+    Give the command for replacement-- :s/important/critical/g
+    
+12. The current line number is 70. 
+    Use shift+g to move to the last line from the 70th line.
+    Use 70G to move to the previous location, i.e. to the 70th line again.
+    
+13. In the normal mode, use shift+g to move to the last line
+    Enter the Insert mode.
+    Type the line- ”The quick brown fox (who was very quick) jumps over the lazy dog.”
+    Exit the Insert mode. 
+    Commands for deleting the words inside the parenthesis including the parenthesis: 6dw (or) :s/ (who was very quick) / /g
+    
+14. In the normal mode, use shift+g to move to the last line
+    use 'A' key to enter the Insert mode
+    Type "-end of the challenge"
+    Press esc to exit the Insert mode
+
+15. (a) use x to delete the extra spaces. 
+    (b) Capitalization and typographical errors can be rectified by replacing them using the command r
+    (c) Enter into the Insert mode and correct the punctuation and spacing errors. And once the corrections are done, exit the Insert mode. 
+    (d) Delete the unwanted words using the command dw
+    (e) use dw command to delete the word and use shift+p to paste the word in the exact position of the cursor. 
+    
+
+    
+    
