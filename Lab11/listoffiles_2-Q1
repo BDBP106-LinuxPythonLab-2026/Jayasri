@@ -1,0 +1,43 @@
+.:
+total 384
+-rwxrw-r--   1 ibab ibab    705 Aug 13 15:56 Aug13
+-rw-rw-r--   1 ibab ibab   4843 Aug 13 18:56 BrainCancer.csv
+drwxr-xr-x   2 ibab ibab   4096 Jul 16 15:45 Desktop
+drwxr-xr-x   2 ibab ibab   4096 Jul 17 14:51 Documents
+drwxr-xr-x   2 ibab ibab   4096 Aug 13 14:03 Downloads
+-rw-rw-r--   1 ibab ibab   1731 Aug  7 18:02 Explanation.txt
+-rw-rw-r--   1 ibab ibab  19925 Aug 13 18:56 Heart.csv
+-rw-rw-r--   1 ibab ibab  19925 Aug  4 10:29 Heart.csv_hardlink
+lrwxrwxrwx   1 ibab ibab      9 Jul 24 15:21 Heart.csv_softlink -> Heart.csv
+-rw-rw-r--   1 ibab ibab  19925 Aug  4 10:28 Heart_col1changed.csv
+drwxrwxr-x  13 ibab ibab   4096 Aug 14 17:16 Jayasri
+drwxrwxr-x   3 ibab ibab   4096 Aug 20 14:09 Lab11
+drwxrwxr-x   2 ibab ibab   4096 Aug 13 19:02 Lab4
+drwxrwxr-x   3 ibab ibab   4096 Jul 31 16:24 Lab5
+drwxrwxr-x   2 ibab ibab   4096 Jul 31 17:23 Lab6
+drwxr-xr-x   2 ibab ibab   4096 Jul 16 15:45 Music
+drwxr-xr-x   3 ibab ibab   4096 Aug  6 14:12 Pictures
+drwxr-xr-x   2 ibab ibab   4096 Jul 16 15:45 Public
+drwxr-xr-x   2 ibab ibab   4096 Jul 16 15:45 Templates
+drwxr-xr-x   2 ibab ibab   4096 Jul 16 15:45 Videos
+-rw-rw-r--   1 ibab ibab    170 Aug 14 12:00 aug14.sh
+-rw-rw-r--   1 ibab ibab    169 Aug 18 10:44 aug18
+-rw-rw-r--   1 ibab ibab    200 Aug 19 14:06 aug18.sh
+-rw-rw-r--   1 ibab ibab    124 Aug 19 14:08 aug19.sh
+drwxrwxr-x   3 ibab ibab   4096 Aug  5 10:53 clonetestdir
+-rw-rw-r--   1 ibab ibab     42 Aug 17 10:22 errfile
+drwxrwxr-x 147 ibab ibab  12288 Aug  6 15:34 etc
+-rw-rw-r--   1 ibab ibab 184923 Aug  6 15:32 etc.zip
+-rw-rw-r--   1 ibab ibab    252 Aug 12 10:53 file
+-rw-rw-r--   1 ibab ibab      0 Aug 17 11:01 file1
+-rw-rw-r--   1 ibab ibab    111 Aug 17 10:51 file2
+-rw-rw-r--   1 ibab ibab      0 Aug 17 10:24 file3
+-rw-rw-r--   1 ibab ibab      0 Aug 17 10:57 fileerr
+-rw-rw-r--   1 ibab ibab     74 Aug 18 10:32 fileoutput
+-rw-rw-r--   1 ibab ibab      0 Aug 20 14:10 listoffiles_2
+drwxrwxr-x   2 ibab ibab   4096 Aug  6 17:21 newdirectory
+-rw-rw-r--   1 ibab ibab     80 Aug 18 10:27 output
+drwxrwxr-x   2 ibab ibab   4096 Jul 31 14:49 pkgs
+-rw-rw-r--   1 ibab ibab    216 Aug  7 10:51 prac
+drwxrwxr-x   4 ibab ibab   4096 Aug  6 15:35 pushtestdir
+drwx------   7 ibab ibab   4096 Jul 24 15:03 snap
