@@ -1,0 +1,19 @@
+LOCUS       PLAB001                   49 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Cloning construct.
+ACCESSION   PLAB001
+VERSION     PLAB001
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /note="BamHI site"
+     CDS             9..41
+                     /gene="labA"
+                     /translation="MASKGEELFT"
+     misc_feature    42..47
+                     /note="EcoRI site"
+ORIGIN
+        1 ggatccttat ggctagcaaa ggagaagaac ttttcactta agaattccc
+//

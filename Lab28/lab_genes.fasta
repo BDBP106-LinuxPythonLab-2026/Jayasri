@@ -1,0 +1,10 @@
+>gene1 synthetic gene, high GC
+ATGGCGCGCGCTAAAGGCGCGTAA
+>gene2 synthetic gene, AT rich
+ATGAAATTTAAATATTTTAAATAG
+>gene3 synthetic gene, high GC
+ATGGGCCCAGGGTTTCCCGGGTGA
+>gene4 synthetic gene with EcoRI and BamHI sites
+ATGTCTTCTGAATTCAAAGGATCCTGA
+>gene5 synthetic gene with a HindIII site
+ATGCCCAAGCTTGGGTAA
